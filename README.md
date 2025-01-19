@@ -20,9 +20,14 @@ project_directory/
 │
 ├── main.py
 ├── wikipedia_data/
-│   ├── article1.txt
-│   ├── article2.txt
+│   ├── articles1.json
+│   ├── articles2.json
 │   ├── ...
+├── most_common_categories_network.py
+├── embedding_and_k_means.py
+├── id_category_data.py
+├── final_results.py
+├── graphs.py
 ```
 
 ## Running the Code
@@ -35,13 +40,6 @@ project_directory/
       ```
 
 ## Requirements
-The following Python packages are required to run the project:
-- `transformers`
-- `scikit-learn`
-- `networkx`
-- `numpy`
-- `pandas`
-
 You can install all required packages using the command:
 ```bash
 pip install -r requirements.txt
