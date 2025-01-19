@@ -1,7 +1,3 @@
-Here’s an improved and well-structured version of your text, suitable for a `README.md` file for GitHub:
-
----
-
 # Clustering Wikipedia Articles Using BERT and K-Means
 
 ## Project Overview
