@@ -52,4 +52,4 @@ The results of the analysis, including the clustering output and insights, are s
 
 ---
 
-the project made with
+This project was created in collaboration with Zohar Laskar.
