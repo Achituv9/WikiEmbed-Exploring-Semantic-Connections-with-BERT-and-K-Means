@@ -1,4 +1,4 @@
-# Clustering Wikipedia Articles Using BERT and K-Means
+# WikiEmbed: Exploring Semantic Connections with BERT and K-Means
 
 ## Project Overview
 This project aims to evaluate the effectiveness of the BERT model in capturing semantic relationships between articles. By embedding approximately 2.5 million Wikipedia pages, we used K-means clustering and the Louvain network to analyze the quality of the embeddings. Our analysis successfully identified meaningful connections between related articles, demonstrating the potential of BERT embeddings to capture semantic relationships.
