@@ -51,5 +51,3 @@ The results of the analysis, including the clustering output and insights, are s
 - **Detailed Findings**: [Clustering Wikipedia Articles Using BERT and K-Means.pdf](Clustering%20Wikipedia%20Articles%20Using%20BERT%20and%20K-Means.pdf).
 
 ---
-
-This project was created in collaboration with Zohar Laskar.
